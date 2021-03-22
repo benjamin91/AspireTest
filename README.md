@@ -1,9 +1,9 @@
 # AspireTest
 
 ## 1. Execute Test
-### If run by IDE
+### If run by IDE (recommend)
 - Install IntelliJ IDE or another that can run the test (https://www.jetbrains.com/idea/download/#section=windows)
-- Open IDE, go to src/test/java/test/, right click on RegistrationTest.java, click Run to run test cases
+- Open IDE, load libraries by Maven, go to src/test/java/test/, right click on RegistrationTest.java, click Run to run test cases
 
 ### For run by Maven
 - Install Maven and set environment variable (https://maven.apache.org/download.cgi)
